@@ -1,13 +1,13 @@
-# Projeto OCR Simples com Azure AI Vision
+# Projeto de transcrição de imagens simples com OpenAI
 
-Este projeto demonstra a extração de texto (OCR) usando os serviços da Azure de forma prática e sem necessidade de programação.
+Este projeto demonstra a extração de texto (OCR) usando os serviços da OpenAI de forma prática e sem necessidade de programação.
 
 ## 📂 Estrutura
 - **inputs/**: imagens usadas para teste
 - **output/**: textos extraídos dessas imagens
 
 ## 🧠 Processo
-1. Acesse o Azure AI Vision Studio
+1. Acesse o OpenAI
 2. Faça upload da imagem
 3. Copie o texto gerado e salve
 4. Adicione prints para documentação
@@ -17,7 +17,7 @@ Este projeto demonstra a extração de texto (OCR) usando os serviços da Azure 
 - É possível usar isso em sistemas de notas fiscais, cadastros automatizados, etc.
 
 ## 🛠️ Ferramentas
-- Azure AI Vision (OCR)
+- OpenAI
 - Git e GitHub
 
 ## 📸 Exemplo
